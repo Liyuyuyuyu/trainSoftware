@@ -1,0 +1,19 @@
+div.backgroundImg {
+    text-align: center;
+}
+
+div.loginDiv {
+    position: absolute;
+    background-color: white;
+    opacity: 0.6;
+    padding: 50px;
+    top: 50%;
+    left: 50%;
+    margin-top: -125px;
+    /*元素高度的一半*/
+    margin-left: -125px;
+    /*元素宽度的一半*/
+}
+div.loginInput{
+    opacity: 1;
+}
